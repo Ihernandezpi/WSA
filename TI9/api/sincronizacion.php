@@ -567,7 +567,7 @@
 			$connection=null;
 			$jsonTiempo = array('fecha' => $fecha[0]["fecha"],'tipoAccion'=>'fechaActualizacion'); 
 			array_push($this->jsonRespuesta, $jsonTiempo);
-			echo json_encode($this->jsonRespuesta,JSON_UNESCAPED_UNICODE);
+			echo json_encode($this->jsonRespuesta);
 		}	
 
 

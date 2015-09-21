@@ -1,0 +1,17 @@
+[24-Jul-2015 02:27:43 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/pineahat/public_html/WSA/TI9/app/routes/admin.php on line 7
+[24-Jul-2015 06:50:31 UTC] PHP Fatal error:  Class 'Sincronizacion' not found in /home/pineahat/public_html/WSA/TI9/api/api.php on line 13
+[24-Jul-2015 06:51:30 UTC] PHP Fatal error:  Class 'Sincronizacion' not found in /home/pineahat/public_html/WSA/TI9/api/api.php on line 13
+[27-Jul-2015 11:52:45 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 359
+[27-Jul-2015 11:52:48 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 359
+[27-Jul-2015 11:53:18 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 359
+[27-Jul-2015 11:53:20 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 359
+[27-Jul-2015 12:25:05 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 356
+[27-Jul-2015 12:25:09 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 356
+[27-Jul-2015 12:25:13 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 356
+[27-Jul-2015 12:25:21 UTC] PHP Fatal error:  Class 'Sincronizacion' not found in /home/pineahat/public_html/WSA/TI9/api/api.php on line 13
+[27-Jul-2015 16:28:00 UTC] PHP Fatal error:  Call to a member function set() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 558
+[27-Jul-2015 16:28:59 UTC] PHP Fatal error:  Call to a member function set() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 558
+[27-Jul-2015 16:29:06 UTC] PHP Fatal error:  Call to a member function set() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 558
+[27-Jul-2015 16:29:59 UTC] PHP Fatal error:  Call to a member function set() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 558
+[27-Jul-2015 16:30:59 UTC] PHP Fatal error:  Call to a member function set() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 558
+[27-Jul-2015 16:32:01 UTC] PHP Fatal error:  Call to a member function set() on a non-object in /home/pineahat/public_html/WSA/TI9/api/sincronizacion.php on line 558
